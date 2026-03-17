@@ -7,7 +7,7 @@ const Header = () => {
     <header className='border border-b-2'>
         <div className='flex justify-between mx-7 my-2.5'>
             <Link href="/">
-            <Image src="logo.svg" alt='CoinPulse logo' width={132} height={40} />
+            <Image src="/logo.svg" alt='CoinPulse logo' width={132} height={40} />
             </Link>
             <nav className='flex space-x-5'>
               <Link href="/">Home</Link>
